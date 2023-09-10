@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1683229744 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683227103 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\solicitar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683227307 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	"structs.h"
+	"pilha.h"
+
+1682977005 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\structs.c
+
+1682974683 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\structs.c
+
+1683222055 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\structs.h
+
+1683229800 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1683047898 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\fila.h
+	"structs.h"
+
+1683221883 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\pilha.h
+	"structs.h"
+
+1683223141 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"structs.h"
+
+1682986240 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\commum.h
+
+1683227235 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683229725 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\info.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683227307 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	"structs.h"
+	"pilha.h"
+
+1683222055 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\structs.h
+
+1683221883 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\pilha.h
+	"structs.h"
+
+1683229800 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1683047898 c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\fila.h
+	"structs.h"
+
+1683229725 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\info.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683229744 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683223141 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"structs.h"
+
+1683227235 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
+1683227103 source:c:\users\diogo\documents\ads - iftm\2° período\estrutura de dados\atividades\trabalho1_ed_diogo_gomes_castro_2_periodo_ads\solicitar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	"structs.h"
+	"pilha.h"
+	"fila.h"
+
