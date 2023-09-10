@@ -1,7 +1,7 @@
 # Solicitacao_de_Pecas
 Sistema desenvolvido como parte de uma prova de Estrutura de Dados, utiliza pilha e fila.
 
-É um sistema que simula um sistema de T.I de uma instituição, possiblitando algumas ações nas abas abaixo, essas informações estão disponíveis dentro do sistema também.
+É um sistema que simula um sistema de suporte técnico de uma instituição, possiblitando algumas ações nas abas abaixo, essas informações estão disponíveis dentro do sistema também.
 
  ============================== 1 - (SOLICITAÇÃO) ==============================
 
